@@ -1,0 +1,5 @@
+Email : admin@gmail.com
+Password : password
+
+Register Account
+http://localhost:8000/register
